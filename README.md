@@ -8,6 +8,12 @@ go run main.go
 air
 ```
 
+## Swagger
+```bash
+# 파일 변경시 
+swag init
+```
+
 ## Setting list
 - [ ] github action ci 설정
 - [ ] gin framework 폴더 구조잡기
@@ -15,4 +21,4 @@ air
 
 ## Reference
 - https://github.com/gin-gonic/gin
-
+- https://github.com/swaggo/gin-swagger
