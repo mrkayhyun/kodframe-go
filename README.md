@@ -1,5 +1,7 @@
 # kodframe-go
 
+gin framework 를 이용한 rest api 서버
+
 ## Run
 ```bash
 # Run the server
