@@ -10,6 +10,15 @@ go run main.go
 air
 ```
 
+## Docker 
+```bash
+# Build the image
+docker build -t kodframe-go .
+
+# Run the container
+docker run -p 8080:8080 kodframe-go
+```
+
 ## Swagger
 ```bash
 # 파일 변경시 
